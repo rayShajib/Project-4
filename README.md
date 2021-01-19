@@ -7,4 +7,4 @@ The project -
 
 - Sorts an array of candle price information
 - Displays the sorted and unsorted items in a GUI using javax.swing.*
-- user can search candles of a given price
+- User can search candles of a given price
